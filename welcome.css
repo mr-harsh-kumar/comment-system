@@ -1,0 +1,60 @@
+body{
+    background-color: black !important;
+}
+#notes,#projects,#imp-ques{
+    /* text-align: center; */
+    font-size: 58px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    color:#00ffd5;
+    padding: 20px;
+
+}
+#welcome-head{
+    color:#00ffd5;
+    font-size: 70px;
+    font-weight: 600;
+    text-align: center;
+    padding: 40px;
+
+}
+.intro{
+    color:aliceblue;
+    text-align: center;
+    font-size: 22px;
+}
+.title{
+    font-size: 28px;
+    text-decoration: underline;
+    color:aliceblue;
+    font-weight: 250;
+
+
+}
+#notes-para{
+    background-color: rgb(27,27,22);
+    margin:25px;
+    /* font-size: 28px; */
+    padding:10px;
+    padding-bottom: 40px;
+    
+    margin-bottom: 80px;
+}
+
+#projects-para{
+    background-color: rgb(27,27,22);
+    margin:25px;
+    /* font-size: 28px; */
+    padding:10px;
+    padding-bottom: 40px;
+    margin-bottom: 80px;
+}
+
+#imp-ques-para{
+    background-color: rgb(27,27,22);
+    margin:25px;
+    /* font-size: 28px; */
+    padding:10px;
+    padding-bottom: 40px;
+    margin-bottom: 80px;
+}
